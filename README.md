@@ -34,5 +34,5 @@ try:
 except:
     return []
 ```
-please check the[API doc](https://elasticsearch-py.readthedocs.io/en/v7.16.2/api.html#elasticsearch) and [query doc](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html) for how to write the query 
+please check the [API doc](https://elasticsearch-py.readthedocs.io/en/v7.16.2/api.html#elasticsearch) and [query doc](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html) for how to write the query 
 
